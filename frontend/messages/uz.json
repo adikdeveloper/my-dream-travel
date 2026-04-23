@@ -1,0 +1,184 @@
+{
+    "Navbar": {
+        "home": "Asosiy",
+        "destinations": "Manzillar",
+        "services": "Xizmatlar",
+        "visa": "Viza",
+        "clients": "Mijozlarimiz",
+        "contact": "Bog'lanish"
+    },
+    "Hero": {
+        "badge": "✨ Sizning ishonchli sayohat hamkoringiz",
+        "titleMain": "Orzuingizdagi sayohatni",
+        "titleSub": "biz bilan kashf eting",
+        "subtitle": "Dunyoning eng go'zal burchaklariga unutilmas sayohatlar va daxlsiz viza yordami. Sizning sarguzashtingiz shu yerdan boshlanadi.",
+        "searchPlaceholder": "Qayerga bormoqchisiz?",
+        "search": "Izlash"
+    },
+    "Stats": {
+        "visas": "Muvaffaqiyatli vizalar",
+        "clients": "Mamnun mijozlar",
+        "partners": "Hamkor davlatlar",
+        "experience": "Tajribamiz (yil)"
+    },
+    "Destinations": {
+        "badge": "Tavsiya etamiz",
+        "title": "Mashhur Yo'nalishlar",
+        "viewAll": "Barchasini ko'rish",
+        "from": "dan"
+    },
+    "Services": {
+        "badge": "Nima uchun biz?",
+        "title": "Orzuingizdagi sayohatni rejalashtirishda eng yaxshi tanlov",
+        "subtitle": "Biz sizning har bir daqiqangiz mukammal bo'lishini ta'minlash uchun xizmat ko'rsatamiz. Viza jarayonlari, chiptalar, mehmonxonalar barchasini o'z zimmamizga olamiz.",
+        "visaTitle": "100% Viza Yordami",
+        "visaDesc": "Hujjatlarni tayyorlashdan tortib suhbatgacha bo'lgan barcha jarayonda professional yordam beramiz.",
+        "toursTitle": "Premium Tur Paketlar",
+        "toursDesc": "Dunyodagi eng yaxshi mehmonxonalar va aviakompaniyalar bilan eksklyuziv shartnomalarimiz mavjud.",
+        "safeTitle": "Ishonchli va Xavfsiz",
+        "safeDesc": "Sayohat davomida 24/7 qo'llab-quvvatlash va sug'urta xizmatlari bilan xotirjamlikni feel eting."
+    },
+    "Contact": {
+        "modalTitle": "Biz bilan bog'lanish",
+        "modalSubtitle": "Savollaringiz bormi? Operatorlarimiz sizga tez orada javob berishadi.",
+        "nameLabel": "Ismingiz",
+        "namePlaceholder": "Ismingizni kiriting",
+        "phoneLabel": "Telefon raqam",
+        "submit": "Xabar yuborish",
+        "successTitle": "Xabaringiz yuborildi!",
+        "successSubtitle": "Mutaxassislarimiz siz bilan tez orada aloqaga chiqishadi.",
+        "close": "Yopish"
+    },
+    "Tours": {
+        "allTours": "Barcha Tur Paketlar",
+        "discoverTitle": "Kashf Etish Vaqti Keldi",
+        "discoverSubtitle": "O'zingiz uchun eng mos va qulay bo'lgan sayohat yo'nalishini tanlang. Biz barchasini yuqori darajada tashkillashtirib beramiz.",
+        "filter": "Filtr",
+        "viewTour": "Turni ko'rish",
+        "startingPrice": "Boshlanish narxi",
+        "from": "dan",
+        "days": "kun",
+        "details": "Batafsil",
+        "noTours": "Bu toifada hozircha tur paketlar mavjud emas.",
+        "categories": {
+            "all": "Barcha",
+            "europe": "Yevropa",
+            "asia": "Osiyo",
+            "islands": "Orollar",
+            "america": "Amerika"
+        }
+    },
+    "TourDetails": {
+        "notFound": "Tur topilmadi",
+        "notFoundDesc": "Kechirasiz, siz qidirayotgan tur paket tizimda mavjud emas yoki o'chirilgan.",
+        "backToTours": "Barcha turlarga qaytish",
+        "rating": "Reyting",
+        "titleSuffix": "Sayohati",
+        "nights": "kecha",
+        "days": "kun",
+        "departure": "Jo'nash: Toshkent (TAS)",
+        "about": "Sayohat haqida batafsil",
+        "highlights": {
+            "flight": "Aviaparvoz",
+            "hotel": "Mehmonxona",
+            "breakfast": "Nonushta",
+            "insurance": "Sug'urta"
+        },
+        "included": "Narxga kiritilgan",
+        "notIncluded": "Narxga kiritilmagan",
+        "hotels": "Tavsiya etiladigan mehmonxonalar",
+        "sidebar": {
+            "priceLabel": "Tur paket boshlang'ich narxi",
+            "perPerson": "/ kishi",
+            "dates": "Yaqin sanalar",
+            "every5Days": "Har 5 kunda",
+            "status": "Joylar holati",
+            "available": "Mavjud",
+            "prepayment": "Oldindan to'lov",
+            "book": "Joyni band qilish",
+            "refund": "To'lov qaytarilishi kafolatlangan"
+        },
+        "booking": {
+            "title": "Ro'yxatdan o'ting",
+            "subtitle": "Joyni band qilish uchun ma'lumotlaringizni kiriting:",
+            "nameLabel": "Ism va familiya",
+            "namePlaceholder": "Misol: Ali Valiyev",
+            "phoneLabel": "Telefon raqam",
+            "submit": "Band qilish",
+            "loading": "Iltimos kuting...",
+            "processing": "So'rovingiz ko'rib chiqilmoqda",
+            "successTitle": "So'rovingiz qabul qilindi!",
+            "successSubtitle": "Operatorlarimiz tez orada siz bilan bog'lanishadi. Bizni tanlaganingiz uchun tashakkur!",
+            "close": "Yopish"
+        },
+        "dummyData": {
+            "overviewTemplate": "Sizni {tourName} ga unutilmas sayohat kutmoqda! Bu tur paket orqali siz {category} ning eng ajoyib diqqatga sazovor joylarini kashf etasiz. Qulay mehmonxonalar, professional gidlar va maxsus marshrut sizning hordig'ingizni yuqori darajada o'tishini ta'minlaydi. O'zingiz va yaqinlaringiz uchun hayotiy xotiralar yarating! Bizning yillar davomida to'plangan tajribamiz sizga eng yaxshi dam olish daqiqalarini taqdim etadi.",
+            "included": [
+                "Ikki tomonlama premium aviachiptalar",
+                "5 Yulduzli shinam mehmonxona",
+                "Aeroportdan premium transfer xizmati",
+                "Ertalabki xilma-xil nonushta (Shved stoli)",
+                "Kengaytirilgan tibbiy sug'urta (Covid-19 qoplangan)",
+                "Professional mahalliy gid xizmati"
+            ],
+            "notIncluded": [
+                "Viza to'lovlari va hujjatlarni rasmiylashtirish (agar talab etilsa)",
+                "Tushlik va kechki ovqatlar",
+                "Qo'shimcha ekskursiyalar va shaxsiy xarajatlar"
+            ],
+            "hotel1": {
+                "name": "Premium Plaza Hotel & Spa",
+                "desc": "Shahar markazida joylashgan, barcha qulayliklarga ega premium klass mehmonxona. Spa markazi, basseyn va 3 ta restoran mavjud."
+            },
+            "hotel2": {
+                "name": "Grand Horizon Resort",
+                "desc": "Sokin hududda, tabiat qo'ynidagi ajoyib maskan. Asosan osoyishta hordiq chiqarmoqchi bo'lganlar uchun mos keladi."
+            }
+        }
+    },
+    "Testimonials": {
+        "badge": "Mijozlarimiz",
+        "title": "Baxtli Sayohatlar Tajribasi",
+        "subtitle": "Biz bilan birga o'z orzu manzillariga yetib borgan yuzlab qoniqarli mijozlarimizning ajoyib taassurotlari bilan tanishing.",
+        "stories": {
+            "1": {
+                "text": "My Dream Travel yordamida AQSH vizasini oldim va ajoyib sayohat qildim. Katta rahmat!",
+                "location": "Nyu York, AQSH"
+            },
+            "2": {
+                "text": "Yevropa bo'ylab sayohat qilish orzuim edi. Viza va tur paketlarni tez va muammosiz qilib berishdi.",
+                "location": "Rim, Italiya"
+            },
+            "3": {
+                "text": "Dubayda dam olish umuman boshqacha tajriba bo'ldi. Hammaga My Dream Consultingni tavsiya qilaman.",
+                "location": "Dubay, BAA"
+            }
+        }
+    },
+    "Footer": {
+        "about": "Bizning maqsadimiz – har bir mijozimiz uchun unutilmas va xavfsiz sayohatni taqdim etishdir.",
+        "company": {
+            "title": "Kompaniya",
+            "about": "Biz haqimizda",
+            "services": "Xizmatlar",
+            "blogs": "Bloglar",
+            "contact": "Aloqa"
+        },
+        "categories": {
+            "title": "Toifalar",
+            "visa": "Viza yordami",
+            "tours": "Tur paketlar",
+            "hotels": "Mehmonxonalar",
+            "tickets": "Aviachiptalar"
+        },
+        "contact": {
+            "title": "Aloqa uchun",
+            "workingHours": "Dushanba - Juma: 09:00 - 18:00"
+        },
+        "legal": {
+            "copy": "Barcha huquqlar himoyalangan.",
+            "privacy": "Maxfiylik siyosati",
+            "terms": "Foydalanish shartlari"
+        }
+    }
+}

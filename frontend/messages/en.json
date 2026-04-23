@@ -1,0 +1,184 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "destinations": "Destinations",
+        "services": "Services",
+        "visa": "Visa",
+        "clients": "Clients",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "badge": "✨ Your reliable travel partner",
+        "titleMain": "Discover your dream",
+        "titleSub": "travel with us",
+        "subtitle": "Unforgettable trips to the world's most beautiful corners and reliable visa support. Your adventure starts here.",
+        "searchPlaceholder": "Where do you want to go?",
+        "search": "Search"
+    },
+    "Stats": {
+        "visas": "Successful visas",
+        "clients": "Happy clients",
+        "partners": "Partner countries",
+        "experience": "Experience (years)"
+    },
+    "Destinations": {
+        "badge": "Highly Recommended",
+        "title": "Popular Destinations",
+        "viewAll": "View all",
+        "from": "from"
+    },
+    "Services": {
+        "badge": "Why choose us?",
+        "title": "The best choice for planning your dream trip",
+        "subtitle": "We provide services to ensure your every moment is perfect. We take care of visa processes, tickets, hotels.",
+        "visaTitle": "100% Visa Assistance",
+        "visaDesc": "We provide professional assistance in all processes from document preparation to interviews.",
+        "toursTitle": "Premium Tour Packages",
+        "toursDesc": "We have exclusive contracts with the world's best hotels and airlines.",
+        "safeTitle": "Reliable and Safe",
+        "safeDesc": "Feel at peace with 24/7 support and insurance services during your trip."
+    },
+    "Contact": {
+        "modalTitle": "Contact Us",
+        "modalSubtitle": "Do you have questions? Our operators will answer you soon.",
+        "nameLabel": "Your name",
+        "namePlaceholder": "Enter your name",
+        "phoneLabel": "Phone number",
+        "submit": "Send message",
+        "successTitle": "Message sent!",
+        "successSubtitle": "Our specialists will contact you soon.",
+        "close": "Close"
+    },
+    "Tours": {
+        "allTours": "All Tour Packages",
+        "discoverTitle": "Time to Discover",
+        "discoverSubtitle": "Choose the most suitable and convenient travel destination for yourself. We will organize everything at a high level.",
+        "filter": "Filter",
+        "viewTour": "View tour",
+        "startingPrice": "Starting price",
+        "from": "from",
+        "days": "days",
+        "details": "Details",
+        "noTours": "There are no tour packages in this category yet.",
+        "categories": {
+            "all": "All",
+            "europe": "Europe",
+            "asia": "Asia",
+            "islands": "Islands",
+            "america": "America"
+        }
+    },
+    "TourDetails": {
+        "notFound": "Tour not found",
+        "notFoundDesc": "Sorry, the tour package you are looking for does not exist or has been deleted.",
+        "backToTours": "Back to all tours",
+        "rating": "Rating",
+        "titleSuffix": "Tour",
+        "nights": "nights",
+        "days": "days",
+        "departure": "Departure: Tashkent (TAS)",
+        "about": "Tour details",
+        "highlights": {
+            "flight": "Flight",
+            "hotel": "Hotel",
+            "breakfast": "Breakfast",
+            "insurance": "Insurance"
+        },
+        "included": "Included in the price",
+        "notIncluded": "Not included in the price",
+        "hotels": "Recommended hotels",
+        "sidebar": {
+            "priceLabel": "Tour package starting price",
+            "perPerson": "/ person",
+            "dates": "Upcoming dates",
+            "every5Days": "Every 5 days",
+            "status": "Availability",
+            "available": "Available",
+            "prepayment": "Prepayment",
+            "book": "Book a spot",
+            "refund": "Refund guaranteed"
+        },
+        "booking": {
+            "title": "Register",
+            "subtitle": "Enter your details to book a spot:",
+            "nameLabel": "Full name",
+            "namePlaceholder": "Example: John Doe",
+            "phoneLabel": "Phone number",
+            "submit": "Book Now",
+            "loading": "Please wait...",
+            "processing": "Your request is being processed",
+            "successTitle": "Your request has been received!",
+            "successSubtitle": "Our operators will contact you soon. Thank you for choosing us!",
+            "close": "Close"
+        },
+        "dummyData": {
+            "overviewTemplate": "An unforgettable trip to {tourName} awaits you! With this tour package, you will discover the most amazing highlights of {category}. Cozy hotels, professional guides, and a special itinerary will ensure your holiday is at the highest level. Create memories of a lifetime for yourself and your loved ones! Our years of experience will give you the best moments of relaxation.",
+            "included": [
+                "Two-way premium flight tickets",
+                "Comfortable 5-star hotel",
+                "Premium airport transfer service",
+                "Varied breakfast (buffet style)",
+                "Extended medical insurance (Covid-19 covered)",
+                "Professional local guide service"
+            ],
+            "notIncluded": [
+                "Visa fees and documentation (if required)",
+                "Lunches and dinners",
+                "Additional excursions and personal expenses"
+            ],
+            "hotel1": {
+                "name": "Premium Plaza Hotel & Spa",
+                "desc": "Premium class hotel located in the city center with all amenities. There is a spa center, swimming pool, and 3 restaurants."
+            },
+            "hotel2": {
+                "name": "Grand Horizon Resort",
+                "desc": "An amazing place in the heart of nature in a quiet area. Mainly suitable for those who want a quiet holiday."
+            }
+        }
+    },
+    "Testimonials": {
+        "badge": "Our Clients",
+        "title": "Happy Travel Experiences",
+        "subtitle": "Get to know the amazing impressions of hundreds of our satisfied clients who have reached their dream destinations with us.",
+        "stories": {
+            "1": {
+                "text": "I got my USA visa with the help of My Dream Travel and had an amazing trip. Thank you so much!",
+                "location": "New York, USA"
+            },
+            "2": {
+                "text": "Traveling across Europe was my dream. They processed the visas and tour packages quickly and without problems.",
+                "location": "Rome, Italy"
+            },
+            "3": {
+                "text": "Vacationing in Dubai was a completely different experience. I recommend My Dream Consulting to everyone.",
+                "location": "Dubai, UAE"
+            }
+        }
+    },
+    "Footer": {
+        "about": "Our goal is to provide an unforgettable and safe travel experience for each of our clients.",
+        "company": {
+            "title": "Company",
+            "about": "About Us",
+            "services": "Services",
+            "blogs": "Blogs",
+            "contact": "Contact"
+        },
+        "categories": {
+            "title": "Categories",
+            "visa": "Visa Assistance",
+            "tours": "Tour Packages",
+            "hotels": "Hotels",
+            "tickets": "Flight Tickets"
+        },
+        "contact": {
+            "title": "Contact info",
+            "workingHours": "Monday - Friday: 09:00 - 18:00"
+        },
+        "legal": {
+            "copy": "All rights reserved.",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Use"
+        }
+    }
+}
